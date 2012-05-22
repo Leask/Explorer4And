@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="lwc/port/Graphics.java" kind="src" path="LWC4And"/>
+	<classpathentry excluding="lwc/demo/DirOpertor.java" kind="src" path="Explorer4And"/>
+	<classpathentry excluding="lwc/demo/img/|lwc/ui/PopupLayer.java|lwc/ui/res/img/|lwc/ui/theme/" kind="src" path="LWC"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.project.AndroidClasspathContainerInitializer"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

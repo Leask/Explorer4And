@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LWC4Andm5rc14 Demo</string>
+    <string name="explorer_name">Explorer4Andm5rc14</string>
+    <string name="ver">5.0beta</string>
+    <string name="grade">Android</string>
+    <string name="rs.loader">lwc.ui.res.LwRsLoaderImpl</string>
+</resources>
